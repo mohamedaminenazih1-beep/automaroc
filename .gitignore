@@ -5,3 +5,5 @@ out/
 .DS_Store
 *.zip
 install_log.txt
+git-installer.exe
+node/
